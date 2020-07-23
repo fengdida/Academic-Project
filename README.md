@@ -8,12 +8,12 @@
 •	Back-tested the five factors in Fama-French model for 30 years and compared the results with the constructed portfolio.   
 •	The p-value and GSR value implied the factors in our model significantly contribute to this model and limitations are lack of economic meanings and 5 centres in K-means clustering could be arbitrary.  
 
-RISK MANAGEMENT PROJECT
-•	Tuned Black Scholes Models with SABR model of stochastic volatility to catch up volatility smile in order to manage the model risk.
-•	Identified different kinds of risks such as market risk, liquidity risk and credit risk. 
-•	Valuated prices, VaR, EL, Greeks and other metrics of various financial products such as equities options and FX by using Stochastic models, historical data and Monte Carlo Simulation. 
-•	Estimated XVA of IRS and CDS by stochastic methods and Monte Carlo Simulation with specific Copulas, making proper statements on the exposure and strategies.
-
+### RISK MANAGEMENT PROJECT
+•	Tuned Black Scholes Models with SABR model of stochastic volatility to catch up volatility smile in order to manage the model risk.  
+•	Identified different kinds of risks such as market risk, liquidity risk and credit risk.   
+•	Valuated prices, VaR, EL, Greeks and other metrics of various financial products such as equities options and FX by using Stochastic models, historical data and Monte Carlo Simulation.   
+•	Estimated XVA of IRS and CDS by stochastic methods and Monte Carlo Simulation with specific Copulas, making proper statements on the exposure and strategies.  
+  
 MOMENTUM STRATEGY WITH MANAGED RISK	
 •	Constructed momentum portfolio by choosing the top and bottom 10% US stocks ordered by returns over the past 120 days. 
 •	Forecasted portfolio volatility by using GARCH and RV models to adjust the weights of momentum portfolio and improved limitations of momentum strategy such as high volatility and negative beta in bear markets.
