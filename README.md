@@ -1,6 +1,6 @@
 # Acdemic-Project
-##Quant trading project
-###FAMA-FRENCH MODEL EXTENSION BY MACHINE LEARNING   		
+## Quant trading project
+### FAMA-FRENCH MODEL EXTENSION BY MACHINE LEARNING   		
 •	Initiated a new idea – ‘Fama French model extension’ and compared results with Fama French
 •	Extracted US stock market data from CRSP and Compustat and normalized the original data such as price, return, capital size, book-to-market ratio, operation income etc. 
 •	Applied PCA method to minimize the correlations among these factors and decided five leading contributing factors. Applied K-means clustering to construct five new portfolios due to these 5 new factors from PCA.
