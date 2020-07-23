@@ -14,15 +14,15 @@
 •	Valuated prices, VaR, EL, Greeks and other metrics of various financial products such as equities options and FX by using Stochastic models, historical data and Monte Carlo Simulation.   
 •	Estimated XVA of IRS and CDS by stochastic methods and Monte Carlo Simulation with specific Copulas, making proper statements on the exposure and strategies.  
   
-MOMENTUM STRATEGY WITH MANAGED RISK	
-•	Constructed momentum portfolio by choosing the top and bottom 10% US stocks ordered by returns over the past 120 days. 
-•	Forecasted portfolio volatility by using GARCH and RV models to adjust the weights of momentum portfolio and improved limitations of momentum strategy such as high volatility and negative beta in bear markets.
-•	Optimized the weights of stocks in the portfolio based on Sharpe ratio. 
-•	Back-tested all the risk-managed momentum strategies to achieve an average excess return of 50% and annual Sharpe ratio of 1.25.
+### MOMENTUM STRATEGY WITH MANAGED RISK	
+•	Constructed momentum portfolio by choosing the top and bottom 10% US stocks ordered by returns over the past 120 days.   
+•	Forecasted portfolio volatility by using GARCH and RV models to adjust the weights of momentum portfolio and improved limitations of momentum strategy such as high volatility and negative beta in bear markets.  
+•	Optimized the weights of stocks in the portfolio based on Sharpe ratio.   
+•	Back-tested all the risk-managed momentum strategies to achieve an average excess return of 50% and annual Sharpe ratio of 1.25.  
 
-EXCHANGE RATE FORECASTING MODEL BY MACHINE LEARNING
-•	Extract data of future indices, stock indices, commodity indices and macro metrics from CRSP and quandl. Predicted the move directions of JPY/USD by other factors. 
-•	Built up a financial model by applying classification methods: random forest, SVM and logistic regression to forecast Forex trend. Tuned the test windows, optimization methods and C value to achieve an accuracy of 55%.
-•	Back-tested the model by constructing a strategy of buying at positive signals and selling at negative signals. Achieved excess annual return of 8% - 9% and Sharpe ratio of 0.9 -1.0.
-•	Further research: give more labels such as deep positive, deep negative to verify the trade signal in order to make the prediction more precise.
+### EXCHANGE RATE FORECASTING MODEL BY MACHINE LEARNING
+•	Extract data of future indices, stock indices, commodity indices and macro metrics from CRSP and quandl. Predicted the move directions of JPY/USD by other factors.   
+•	Built up a financial model by applying classification methods: random forest, SVM and logistic regression to forecast Forex trend. Tuned the test windows, optimization methods and C value to achieve an accuracy of 55%.  
+•	Back-tested the model by constructing a strategy of buying at positive signals and selling at negative signals. Achieved excess annual return of 8% - 9% and Sharpe ratio of 0.9 -1.0.  
+•	Further research: give more labels such as deep positive, deep negative to verify the trade signal in order to make the prediction more precise.  
 
