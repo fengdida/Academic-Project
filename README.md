@@ -8,7 +8,7 @@
 •	Back-tested the five factors in Fama-French model for 30 years and compared the results with the constructed portfolio.   
 •	The p-value and GSR value implied the factors in our model significantly contribute to this model and limitations are lack of economic meanings and 5 centres in K-means clustering could be arbitrary.  
 
-### RISK MANAGEMENT PROJECT
+### STOCHASTIC PROCESS AND PRICING PROJECT
 •	Tuned Black Scholes Models with SABR model of stochastic volatility to catch up volatility smile in order to manage the model risk.  
 •	Identified different kinds of risks such as market risk, liquidity risk and credit risk.   
 •	Valuated prices, VaR, EL, Greeks and other metrics of various financial products such as equities options and FX by using Stochastic models, historical data and Monte Carlo Simulation.   
